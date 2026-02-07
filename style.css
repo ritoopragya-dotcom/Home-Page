@@ -173,6 +173,7 @@ p.hdn {
 }
 
 .card {
+	flex: 1 1;
 	border-radius: 10px;
 	box-shadow: 2px 2px 2px #c0c0c0;
 }
@@ -204,3 +205,4 @@ footer {
 	align-content: center;
 
 }
+
